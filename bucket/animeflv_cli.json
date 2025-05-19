@@ -7,6 +7,8 @@
   "hash": "784851E4FCB4B46F8BCE863DCEC28F6FE8C0055CE8D6520609A36462912F15BB",
   "bin": "animeflv_cli.exe",
   "post_install": [
+    "echo Instalando Playwright globalmente...",
+    "pip install playwright",
     "python -m playwright install firefox"
   ],
   "suggest": {
