@@ -6,14 +6,12 @@
   "url": "https://github.com/M-akishi/animeflv_scrapper/releases/download/v1.0.0/animeflv_cli.zip",
   "hash": "784851E4FCB4B46F8BCE863DCEC28F6FE8C0055CE8D6520609A36462912F15BB",
   "bin": "animeflv_cli.exe",
-  "depends": [
-    "python"
-  ],
   "post_install": [
     "python -m playwright install firefox"
   ],
   "suggest": {
     "mpv": "mpv",
-    "yt-dlp": "yt-dlp"
+    "yt-dlp": "yt-dlp",
+    "python":"python"
   }
 }
