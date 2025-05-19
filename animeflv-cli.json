@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "description": "Scrapper CLI de AnimeFLV que reproduce episodios desde el reproductor Maru usando mpv.",
+  "homepage": "https://github.com/M-akishi/animeflv_scrapper",
+  "license": "MIT",
+  "url": "https://github.com/M-akishi/animeflv_scrapper/releases/download/release/animeflv_cli.zip",
+  "hash": "28478C0A878B04600602856DFFAA21709601C4597C7ABB063285095B94C8326B",
+  "bin": "animeflv_cli.exe",
+  "notes": "Asegúrate de tener instalados mpv y yt-dlp en el PATH. Este ejecutable incluye el navegador Firefox embebido para usar Playwright."
+}
