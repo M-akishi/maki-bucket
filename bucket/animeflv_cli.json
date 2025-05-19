@@ -4,7 +4,7 @@
   "homepage": "https://github.com/M-akishi/animeflv_scrapper",
   "license": "MIT",
   "url": "https://github.com/M-akishi/animeflv_scrapper/releases/download/release/animeflv_cli.zip",
-  "hash": "28478C0A878B04600602856DFFAA21709601C4597C7ABB063285095B94C8326B",
+  "hash": "2400EBA37404D1D8F7D912B6641FC6EF41C5A1EF2CCA46D46FAAE7B7289DEF66",
   "bin": "animeflv_cli.exe",
   "notes": "Asegúrate de tener instalados mpv y yt-dlp en el PATH. Este ejecutable incluye el navegador Firefox embebido para usar Playwright."
 }
