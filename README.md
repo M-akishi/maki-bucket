@@ -8,6 +8,10 @@ Este es un bucket personal para [Scoop](https://scoop.sh), el gestor de paquetes
 |----------------|-------------------------------------------------------------------------|
 | animeflv-cli   | Scrapper CLI para buscar y reproducir anime desde AnimeFLV usando MPV. |
 
+## Dependencias
+
+Python>=3.11
+
 ## Instalación
 
 ### 1. Instalar Scoop (si no lo tienes)
