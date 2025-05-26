@@ -1,0 +1,10 @@
+{
+    "version": "0.1.0",
+    "description": "Scrapper CLI de rojadirecta que permite reproducir eventos deportivos en mpv.",
+    "homepage": "https://github.com/M-akishi/rojadirecta_scrapper",
+    "license": "MIT",
+    "url": "https://github.com/M-akishi/rojadirecta_scrapper/releases/download/v0.1.0/rojadirecta_cli.zip",
+    "hash": "2F93350B9E731FC1926D13B5AEEB6811360DE1C0635319EC98EC212F291E84E8",
+    "bin": "rojadirecta_cli.exe",
+    "notes": "Asegúrate de tener instalados mpv y yt-dlp en el PATH. Este ejecutable incluye el navegador Firefox embebido para usar Playwright."
+}
